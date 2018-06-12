@@ -1,1 +1,1 @@
-# express-jwt-example
+# Express JWT example
